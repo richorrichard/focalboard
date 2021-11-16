@@ -66,3 +66,4 @@ mattermost-plugin/dist
 .idea
 docker/certs
 docker/data
+.nvmrc
